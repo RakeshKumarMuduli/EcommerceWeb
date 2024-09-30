@@ -13,7 +13,7 @@ const Footer = () => {
 
         
         <div className="w-full md:w-1/4 mb-4">
-          <h3 className="text-xl font-semibold mb-2">as</h3>
+          <h3 className="text-xl font-semibold mb-2">As</h3>
           <ul>
             <li>
               <a href="/" className="text-gray-400 hover:text-white">
